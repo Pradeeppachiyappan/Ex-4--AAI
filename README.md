@@ -1,6 +1,6 @@
-<H4>Name : Pradeepraj P</H4>
-<H4>Reg No : 212222240073</H4>
-<H4>EX. NO.4</H4>
+<H3>Name : Pradeepraj P</H3>
+<H3>Reg No : 212222240073</H3>
+<H3>EX. NO.4</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
